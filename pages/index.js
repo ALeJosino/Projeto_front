@@ -14,7 +14,7 @@ function Home() {
         <nav className="navbar">
             <div className="max-width">
                 <div className="logo">
-                    <a href="#top">2º Informática 2023</a>
+                    <a href="#top">tecnologiafs</a>
                 </div>
                 <ul className="menu">
                     <li><a href="#top" className="menu-btn">Home</a></li>
@@ -30,10 +30,10 @@ function Home() {
          <section className="top" id="top">
             <div className="max-width">
                 <div className="top-content">
-                    <div className="text-1">Venha para o nosso curso</div>
-                    <div className="text-2">Informática</div>
+                    <div className="text-1">Venha para o nossos cursos</div>
+                    <div className="text-2">Informática e <br/> Des. sistemas</div>
                     <div className="text-3">O mundo atráves da tecnologia!</div>
-                    <a href="https://instagram.com/adolfoferreiraoficial?igshid=NTc4MTIwNjQ2YQ==">Entar em contato</a>
+                    <a href="https://instagram.com/eixotecnologiafs?igshid=NTc4MTIwNjQ2YQ==">Entar em contato</a>
                 </div>
             </div>
         </section>
@@ -86,8 +86,8 @@ function Home() {
                             <div className="row">
                                 <i className="fas fa-user"></i>
                                 <div className="info">
-                                    <div className="head">Turma</div>
-                                    <div className="sub-title">2º Informática 2023</div>
+                                    <div className="head">Turmas</div>
+                                    <div className="sub-title">Informática <br/> desenvolvimento de sistemas</div>
                                 </div>
                             </div>
 
@@ -103,7 +103,7 @@ function Home() {
                                 <i className="fa-brands fa-instagram"></i>
                                 <div className="info">
                                     <div className="head">Instagram</div>
-                                    <div className="sub-title">@2informaticafs</div>
+                                    <div className="sub-title">@eixotecnologiafs</div>
                                 </div>
                             </div>
                         </div>
@@ -137,8 +137,7 @@ function Home() {
 
         <footer>
             <span>Create by <br/>
-                <a href="https://instagram.com/josino_front?igshid=ZGUzMzM3NWJiOQ==">@josino_front</a> <br/>
-                <a href="https://instagram.com/ivan19rx__?igshid=NTc4MTIwNjQ2YQ==">@ivan19__</a>
+                <a href="https://instagram.com/ale_josino06?igshid=ZGUzMzM3NWJiOQ==">@ale_josino06</a> 
             </span>
         </footer>
 
